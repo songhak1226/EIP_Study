@@ -18,7 +18,10 @@ public class JavaValue {
 		// - 객체 자료형 - 변수에 값이 위치한 주소값을 저장
 		// String : 문자열 : "asdf"
 		// Array : 배열 : int arr[3]
-		// 
+		// Class
+		
+		int number;
+		number = 5;
 		
 		int num = 4;
 		char a = 'a';
